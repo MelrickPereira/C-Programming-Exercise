@@ -1,2 +1,2 @@
-# GitProjectFirstTime
-Learning C
+# Learning C
+Practice Exercises for C programming mastery
