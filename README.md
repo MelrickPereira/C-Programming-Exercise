@@ -1,2 +1,2 @@
 # GitProjectFirstTime
-First Git Repository
+Learning C
